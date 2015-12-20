@@ -2,3 +2,5 @@
 *.class
 *.project
 *.metadata
+*.classpath
+*.gitignore
